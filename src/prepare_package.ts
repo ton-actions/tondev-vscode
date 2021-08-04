@@ -1,6 +1,6 @@
 import * as path from "path";
 import * as fs from "fs";
-import {controllers} from "tondev";
+import {controllers} from "@ton-actions/tondev-contest";
 import {getCommandInfo} from "./utils";
 import * as https from "https";
 import * as zlib from "zlib";

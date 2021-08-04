@@ -1,6 +1,6 @@
 import { fstat } from "fs";
-import { controllers } from "tondev";
-import { Command, CommandArg, Terminal } from "tondev";
+import { controllers } from "@ton-actions/tondev-contest";
+import { Command, CommandArg, Terminal } from "@ton-actions/tondev-contest";
 import * as vscode from "vscode";
 import * as fs from "fs";
 import * as path from "path";

@@ -1,4 +1,4 @@
-import { Command, CommandArg, FileArg, FolderArg } from "tondev";
+import { Command, CommandArg, FileArg, FolderArg } from "@ton-actions/tondev-contest";
 
 export type CommandInfo = {
 	fileArg: FileArg | null,
@@ -19,4 +19,3 @@ export function getCommandInfo(command: Command): CommandInfo {
 	}
 	return info;
 }
-
