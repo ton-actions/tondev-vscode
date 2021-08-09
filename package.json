@@ -3,7 +3,7 @@
     "displayName": "TONDev-contest",
     "description": "Free TON Development",
     "publisher": "TonActions",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "icon": "images/tondev.png",
     "engines": {
         "vscode": "^1.52.0"
