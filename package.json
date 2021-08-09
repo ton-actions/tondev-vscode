@@ -1,8 +1,8 @@
 {
     "name": "tondev",
-    "displayName": "TONDev",
+    "displayName": "TONDev-contest",
     "description": "Free TON Development",
-    "publisher": "TONLabs",
+    "publisher": "TonActions",
     "version": "0.5.0",
     "icon": "images/tondev.png",
     "engines": {
