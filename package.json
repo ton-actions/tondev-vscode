@@ -394,7 +394,7 @@
         "test": "node ./out/test/runTest.js"
     },
     "dependencies": {
-        "@ton-actions/tondev-contest": "^0.7.4-alfa.15",
+        "@ton-actions/tondev-contest": "^0.7.4-alfa.17",
         "@tonclient/core": "^1",
         "@tonclient/lib-node": "^1"
     },
